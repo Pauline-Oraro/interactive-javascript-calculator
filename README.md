@@ -3,7 +3,7 @@ An  interactive JavaScript calculator with support for basic arithmetic operatio
 # Interactive JavaScript Calculator
 
 ## Demo
-[Live Demo](insert-demo-link-here)
+[Live Demo](https://pauline-oraro.github.io/interactive-javascript-calculator/)
 
 ## Features
 - Basic arithmetic operations (addition, subtraction, multiplication, division)
