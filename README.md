@@ -1,6 +1,9 @@
 # interactive-javascript-calculator
 An  interactive JavaScript calculator with support for basic arithmetic operations and more.
 
+![Calculator image](![image](https://github.com/Pauline-Oraro/interactive-javascript-calculator/assets/128376718/af43e3d4-be1b-4e65-86bd-7bd613561ad2)
+)
+
 ## Demo
 [Live Demo](https://pauline-oraro.github.io/interactive-javascript-calculator/)
 
